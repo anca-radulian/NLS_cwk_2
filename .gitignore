@@ -1,0 +1,4 @@
+data/*
+.idea/
+stanford-corenlp-full-2018-10-05/
+.DS_Store
